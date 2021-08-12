@@ -1,0 +1,2 @@
+# WorkContract
+JAVA ENUMS, Compostion
